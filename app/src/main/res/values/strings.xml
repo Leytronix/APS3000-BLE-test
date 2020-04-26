@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LittleBee</string>
+    <string name="title_activity_ble">bleActivity</string>
+</resources>

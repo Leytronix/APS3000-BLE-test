@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="littlebee-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/littlebee-master.iml" filepath="$PROJECT_DIR$/littlebee-master.iml" group="littlebee-master" />
+    </modules>
+  </component>
+</project>
